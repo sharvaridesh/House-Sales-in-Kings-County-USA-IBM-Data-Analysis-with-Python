@@ -1,6 +1,4 @@
-# House-Sales-in-Kings-County-USA-IBM-Data-Analysis-with-Python
-
-## IBM Professional Certificate Course Project - Data Analysis of House Sales in Kings County, USA. 
+# IBM Professional Course Project : House-Sales-in-Kings-County-USA-IBM-Data-Analysis-with-Python
 
 ### Libraries Used : Pandas, Matplotlib, Seaborn, NumPy, sklearn
 
